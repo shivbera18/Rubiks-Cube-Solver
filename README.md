@@ -27,7 +27,7 @@ sudo apt-get install g++
 # Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/rubiks-cube-solver.git
+git clone https://github.com/shivbera18/rubiks-cube-solver.git
 ```
 
 # Navigate to the project directory
